@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "David Tran's Blog"
 theme = "casper"
 paginate = 5
-Copyright = "© 2017-{year}"
+Copyright = "© {year}"
 canonifyurls = true
 
 [params]
