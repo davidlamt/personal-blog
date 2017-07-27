@@ -8,12 +8,12 @@ canonifyurls = true
 
 [params]
   description = "A day in the life of a software developer"
-  metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
+  # metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
   cover = "images/cover.jpg"
   author = "David Tran"
   authorlocation = "Southern California"
   authorwebsite = "https://davidtranscend.com"
-  authorbio= "my bio"
+  authorbio= "David is a software developer with experience in web technologies and interest in software and hardware integration. He is a lifelong learner, an avid podcast listener, and an enthusiast of books of all genres."
   logo = "images/logo.png"
   googleAnalyticsUserID = "UA-79101-12" # TODO: Get analytics ID
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
