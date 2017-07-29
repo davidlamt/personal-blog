@@ -61,5 +61,24 @@ canonifyURLs = true
     identifier = "blog"
     url = "/"
 
+  [[menu.main]]
+    pre = "<h3>Categories</h3>"
+    name = "Software Development"
+    weight = -112
+    identifier = "software-development"
+    url = "/categories/software-development"
+
+  [[menu.main]]
+    name = "Personal Thoughts"
+    weight = -113
+    identifier = "personal-thoughts"
+    url = "/categories/personal-thoughts"
+
+  [[menu.main]]
+    name = "Offline Adventures"
+    weight = -114
+    identifier = "offline-adventures"
+    url = "/categories/offline-adventures"
+
   [permalinks]
     post = "/:slug"
