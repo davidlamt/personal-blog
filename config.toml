@@ -61,11 +61,5 @@ canonifyURLs = true
     identifier = "blog"
     url = "/"
 
-  [[menu.main]]
-    name = "About"
-    weight = -120
-    identifier = "about"
-    url = "/about"
-
   [permalinks]
     post = "/:slug"

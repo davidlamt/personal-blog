@@ -6,6 +6,9 @@ noauthor: true
 share: false
 comments: false
 type: page
+menu:
+  main:
+    weight: -111
 ---
 
 About me!
