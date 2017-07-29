@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2017-07-28T06:57:55-07:00
-draft: true
+draft: false
 noauthor: true
 share: false
 comments: false
