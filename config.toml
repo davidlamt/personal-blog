@@ -5,8 +5,10 @@ theme = "casper"
 paginate = 5
 Copyright = "© {year}"
 canonifyurls = true
+relativeurls = true
 
 [params]
+
   description = "A day in the life of a software developer"
   # metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
   cover = "images/cover.jpg"
@@ -32,3 +34,18 @@ canonifyurls = true
 
   [params.social]
     twitter = "your_twitter"
+
+  [[menu.main]]
+    name = "Home"
+    weight = -110
+    identifier = "blog"
+    url = "/"
+
+  [[menu.main]]
+    name = "About"
+    weight = -120
+    identifier = "about"
+    url = "/about"
+
+  [permalinks]
+    post = "/:slug"
