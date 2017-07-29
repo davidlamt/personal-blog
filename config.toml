@@ -17,17 +17,17 @@ canonifyURLs = true
 # To make website browseable offline, i.e. from local disk,
 # set relativeURLs and uglyURLs to "true"
 # see also params.ugly and params.uglyhome, below
-relativeURLs = true
-uglyURLs = true
+# relativeURLs = true
+# uglyURLs = true
 
 [params]
 
   # set to "" if uglyURLs = "false"
   # set to ".html" if uglyURLs = "true"
-  ugly = ".html"
+  # ugly = ".html"
   # set to "/" if uglyURLs = "false"
   # set to "/index.html" if uglyURLs = "true"
-  uglyhome = "/index.html"
+  # uglyhome = "/index.html"
 
   description = "A day in the life of a software developer"
   # metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
