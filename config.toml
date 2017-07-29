@@ -1,3 +1,84 @@
-baseURL = "http://example.org/"
+baseURL = "https://davidtranscend.com/blog"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "David Tran's Blog"
+theme = "casper"
+paginate = 5
+Copyright = "© {year}"
+
+# If your base url is not the site root, you must set canonifyURLs = "true"
+# Example 1:
+#   baseurl = "https://xyz.com/"
+#   canonifyURLs = "false"
+# Example 2:
+#   baseurl = "https://xyz.com/spqr/"
+#   canonifyURLs = "true"
+canonifyURLs = true
+
+# To make website browseable offline, i.e. from local disk,
+# set relativeURLs and uglyURLs to "true"
+# see also params.ugly and params.uglyhome, below
+# relativeURLs = true
+# uglyURLs = true
+
+[params]
+
+  # set to "" if uglyURLs = "false"
+  # set to ".html" if uglyURLs = "true"
+  # ugly = ".html"
+  # set to "/" if uglyURLs = "false"
+  # set to "/index.html" if uglyURLs = "true"
+  # uglyhome = "/index.html"
+
+  description = "A day in the life of a software developer"
+  # metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
+  cover = "images/cover.jpg"
+  author = "David Tran"
+  authorlocation = "Southern California"
+  authorwebsite = "https://davidtranscend.com"
+  authorbio= "David is a software developer with experience in web technologies and interest in software and hardware integration. He is a lifelong learner, an avid podcast listener, and an enthusiast of books of all genres."
+  authoravatar = "images/david.png"
+  # logo = "images/logo.png"
+  googleAnalyticsUserID = "UA-79101-12" # TODO: Get analytics ID
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  RSSLink = "http://feeds.feedburner.com/..." # TODO: Sign up for feedburner
+  githubName = "davidlamt"
+  twitterName = "davidlamt"
+  linkedinName = "davidlamt"
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false
+
+  # Setting a value will load highlight.js and enable syntax highlighting using the style selected.
+  # See https://github.com/isagalaev/highlight.js/tree/master/src/styles for available styles
+  # A preview of above styles can be viewed at https://highlightjs.org/static/demo/
+  hjsStyle = "github-gist"
+
+  [params.social]
+    twitter = "your_twitter"
+
+  [[menu.main]]
+    name = "Home"
+    weight = -110
+    identifier = "blog"
+    url = "/"
+
+  [[menu.main]]
+    pre = "<h3>Categories</h3>"
+    name = "Software Development"
+    weight = -112
+    identifier = "software-development"
+    url = "/categories/software-development"
+
+  [[menu.main]]
+    name = "Personal Thoughts"
+    weight = -113
+    identifier = "personal-thoughts"
+    url = "/categories/personal-thoughts"
+
+  [[menu.main]]
+    name = "Offline Adventures"
+    weight = -114
+    identifier = "offline-adventures"
+    url = "/categories/offline-adventures"
+
+  [permalinks]
+    post = "/:slug"
