@@ -4,6 +4,7 @@ title = "David Tran's Blog"
 theme = "casper"
 paginate = 5
 Copyright = "© {year}"
+DisqusShortname = "davidtranscend-com"
 
 # If your base url is not the site root, you must set canonifyURLs = "true"
 # Example 1:
@@ -38,9 +39,9 @@ canonifyURLs = true
   authorbio= "David is a software developer with experience in web technologies and interest in software and hardware integration. He is a lifelong learner, an avid podcast listener, and an enthusiast of books of all genres."
   authoravatar = "images/david.png"
   # logo = "images/logo.png"
-  googleAnalyticsUserID = "UA-79101-12" # TODO: Get analytics ID
+  googleAnalyticsUserID = "UA-66121615-5"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
-  RSSLink = "http://feeds.feedburner.com/..." # TODO: Sign up for feedburner
+  # RSSLink = "http://feeds.feedburner.com/..." # TODO: Sign up for feedburner
   githubName = "davidlamt"
   twitterName = "davidlamt"
   linkedinName = "davidlamt"
