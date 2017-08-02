@@ -11,8 +11,6 @@ menu:
     weight: -111
 ---
 
-## Introduction
-
 ![David's Portrait](../images/david.png)
 
 Hi!
