@@ -4,7 +4,7 @@ title = "David Tran's Blog"
 theme = "casper"
 paginate = 5
 Copyright = "© {year}"
-DisqusShortname = "davidtranscend-com"
+DisqusShortname = "davidtranscend"
 
 # If your base url is not the site root, you must set canonifyURLs = "true"
 # Example 1:
