@@ -51,7 +51,7 @@ canonifyURLs = true
   # Setting a value will load highlight.js and enable syntax highlighting using the style selected.
   # See https://github.com/isagalaev/highlight.js/tree/master/src/styles for available styles
   # A preview of above styles can be viewed at https://highlightjs.org/static/demo/
-  hjsStyle = "github-gist"
+  hjsStyle = "monokai-sublime"
 
   # [params.social]
   #   twitter = "your_twitter"
