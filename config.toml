@@ -51,13 +51,19 @@ canonifyURLs = true
   # Setting a value will load highlight.js and enable syntax highlighting using the style selected.
   # See https://github.com/isagalaev/highlight.js/tree/master/src/styles for available styles
   # A preview of above styles can be viewed at https://highlightjs.org/static/demo/
-  hjsStyle = "github-gist"
+  hjsStyle = "github"
 
   # [params.social]
   #   twitter = "your_twitter"
 
   [[menu.main]]
     name = "Home"
+    weight = -100
+    identifier = "home"
+    url = "https://davidtranscend.com"
+
+  [[menu.main]]
+    name = "Blog"
     weight = -110
     identifier = "blog"
     url = "/"

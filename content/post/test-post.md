@@ -16,7 +16,7 @@ Super excited!!!
 ```js
 const test = 0;
 
-test ++;
+test++;
 
 console.log(test);
 
@@ -24,3 +24,9 @@ const testing = () => {
   console.log('AWESOME');
 };
 ```
+
+```
+No language
+```
+
+Testing some `inline` code.
