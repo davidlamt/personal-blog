@@ -58,6 +58,12 @@ canonifyURLs = true
 
   [[menu.main]]
     name = "Home"
+    weight = -100
+    identifier = "home"
+    url = "https://davidtranscend.com"
+
+  [[menu.main]]
+    name = "Blog"
     weight = -110
     identifier = "blog"
     url = "/"
