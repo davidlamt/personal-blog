@@ -1,7 +1,7 @@
 ---
 title: "console.log(\"Hello, world!\");"
 date: 2017-08-01T19:56:26-07:00
-publishdate: 2017-05-26
+publishdate: 2017-03-26
 draft: false
 slug: "introduction"
 categories: ["Personal Thoughts"]
