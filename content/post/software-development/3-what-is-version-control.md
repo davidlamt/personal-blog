@@ -9,7 +9,7 @@ categories: ["Software Development"]
 
 “Why do I need version control?”
 
-![Without Version Control](/images/software-development/without-version-control.png)
+<img src="/images/software-development/without-version-control.png" alt="Without Version Control" style="max-width:710px;"/>
 
 Do you want to have a folder that looks like this? Trust me, you do not.
 
