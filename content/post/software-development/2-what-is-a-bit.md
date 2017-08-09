@@ -89,7 +89,7 @@ From my limited experience and ​partial bias, a byte seems to be the predomina
 
 Bytes are also used for American Standard Code for Information Interchange (ASCII) encoding to provide numerical representations for numbers, English characters, and more:
 
-![ASCII Codes Table](/images/software-development/ascii-codes-table.png)
+<img src="/images/software-development/ascii-codes-table.png" alt="ASCII Codes Table" style="max-width:710px"/>
 
 As a side note, a bit is abbreviated with a **lowercase b** and a byte with an **uppercase B**. These units are prevalent in data transfers so take a closer look the next time you download something!
 
