@@ -11,7 +11,7 @@ menu:
     weight: -111
 ---
 
-![David's Portrait](../images/david.png)
+<img src="/images/general/david.png" alt="David's Portrait" style="max-width: 200px;"/>
 
 Hi!
 
