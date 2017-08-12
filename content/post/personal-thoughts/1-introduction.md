@@ -1,13 +1,13 @@
 ---
 title: "console.log(\"Hello, world!\");"
 date: 2017-08-01T19:56:26-07:00
-publishdate: 2017-05-26
+publishdate: 2017-03-26
 draft: false
 slug: "introduction"
 categories: ["Personal Thoughts"]
 ---
 
-It is often recommended that one writes a "hello world" program when learning a new programming language but the reason behind that endorsement is often neglected.
+It is often recommended that one writes a "hello world" program when learning a new programming language but the reasoning behind that endorsement is often neglected.
 
 There are several, often unspoken, rationales to this undertaking:
 
@@ -18,9 +18,9 @@ There are several, often unspoken, rationales to this undertaking:
 
 This list is by no means exhaustive or absolute (besides the fourth item).
 
-I believe the second point (learning the basic syntax of the language) is an adequate incentive. Of course, the amount of language syntax one will be exposed to depends on the language but **this exercise provides a rather limited and perhaps biased glimpse of the language.**
+I believe the second point (learning the basic syntax of the language) is an inadequate incentive. Of course, the amount of language syntax one will be exposed to depends on the language but **this exercise provides a rather limited and perhaps biased glimpse of the language.**
 
-On the other hand, I believe the other two points (#1 and #2) relating to the compilation and execution environment contain merit. It is essential to have the tools required for compilation or other build processes set up correctly. Furthermore, understanding the environment in which the program will execute is vital. **A program's performance is likely environment dependent.** For instance, what is the point of using jQuery to fade some text in when you are on a server environment? Especially when the text is empty, jQuery is not installed, and the server is down. :)
+On the other hand, I believe the other two points (#1 and #2) relating to the compilation and execution environment contain merit. It is essential to have the tools required for compilation or other build processes set up correctly. Furthermore, understanding the environment in which the program will execute is vital. **A program's performance is likely environment dependent**. For instance, what is the point of using jQuery to fade some text in when you are on a server environment? Especially when the text is empty, jQuery is not installed, and the server is down. :)
 
 Speaking of JavaScript, the title of this post displays a simple JavaScript hello world program:
 
