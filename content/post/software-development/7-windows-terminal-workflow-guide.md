@@ -129,7 +129,7 @@ You now have a hackable terminal emulator that is backed by a feature rich shell
 
 ### Personal Configurations
 
-Initially, the home directory (`~`) of my Hyper terminal pointed to `/home/USERNAME/``. Personally, I wanted the home directory to be `/mnt/c/Users/MY_NAME` so I added the following line to `.zshrc`:
+Initially, the home directory (`~`) of my Hyper terminal pointed to `/home/USERNAME/`. Personally, I wanted the home directory to be `/mnt/c/Users/MY_NAME` so I added the following line to `.zshrc`:
 
 ```default
 export HOME="/mnt/c/Users/MY_NAME"
