@@ -61,7 +61,7 @@ Additionally, having content written in Markdown will make it easy to swap theme
 
 WordPress sites serve content to visitors by querying the database for the information for the page that the visitor is requesting. Once the information is retrieved, the server will also need to generate the page.
 
-While this process is quick for most visitors, it adds more layers that needs to be overcome before the information is rendered for the visitor.
+While this process is quick for most visitors, it adds more layers that need to be overcome before the information is rendered for the visitor.
 
 On the other hand, static sites already have all the content ready to serve as it was pre-generated before the visitor even typed in your domain in their browser.
 
@@ -75,7 +75,7 @@ There are many other static site generators like <a href="https://jekyllrb.com/"
 
 So why did I choose Hugo?
 
-### No Dependency
+### No Dependencies
 
 Many static site generators require other dependencies. Having dependencies increases the maintenance factor and I wanted a solution that was simple so I could just focus on writing great content. Like this post, of course. 👍
 
@@ -85,13 +85,13 @@ As a result, the installation process was easy. All it took was one command for 
 
 ### Quick Generation
 
-I do not have experience with other static site generators but users have stated this Hugo's generation is blazingly fast.
+I do not have experience with other static site generators but users have stated that Hugo's generation process is blazingly fast.
 
 Apparently, **sites with hundreds of pages can be generated in less than a second**.
 
 Count me in.
 
-Of course, there are many factors that play into generation speed so your mileage will vary. At the time of this post, this site is generated in about 83ms.
+Of course, there are many factors that play into generation speed so your mileage will vary. At the time of this post, **this site is generated in about 83ms**.
 
 ### Preview
 
@@ -133,7 +133,7 @@ I thought this was extremely cool. And I wanted to be cool. And here we are.
 
 Anyhow, I was able to create a similar setup and I will be discussing that process in detail in a future post.
 
-Here is a teaser: This blog is hosted on a DigitalOcean droplet and the server checks whether the blog should be updated every day at midnight based on the blog's <a href="https://github.com/davidlamt/personal-blog" target="_blank" rel="nofollow">GitHub repository</a>.
+Here is a preview: This blog is hosted on a DigitalOcean droplet and the server checks whether the blog should be updated every day at midnight based on the <a href="https://github.com/davidlamt/personal-blog" target="_blank" rel="nofollow">blog's GitHub repository</a>.
 
 ## Transferring Content
 
