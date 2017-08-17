@@ -37,13 +37,13 @@ Navigate to your `/etc/` folder and you should see many rc*.d folders like rc1.d
 
 First of all, the .d suffix indicates those are directories. These rc directories contain instructions that should be executed according to the runlevel.
 
-For instance, rc1.d contain instructions that should be evoked when the runlevel is 1. rc2.d corresponds with runlevel 2 and so on.
+For instance, rc1.d contains instructions that should be evoked when the runlevel is 1. rc2.d corresponds with runlevel 2 and so on.
 
 As a side note, the .d suffix is used to differentiate the command (rc1) from the directory (rc1.d) the command uses.
 
 ## Adding a Script
 
-Let's assume that you have a script called `run-demo.sh` that starts your application, and you would like the script to run on boot.
+Let's assume that you have a script called `run-demo.sh` that starts your application and you would like the script to run on boot.
 
 We need to create a soft symbolic link to that script within the correct rc*.d folder for your runlevel.
 
@@ -89,12 +89,12 @@ If your script does not run, you should probably consider purchasing a new machi
 
 Thanks for reading through the entire post, hopefully it made sense and helped you achieve what you were after!
 
-Sorry for the terrible humor. 🙂
+Also, sorry for the terrible humor. 🙂
 
 During this process of exploration, I found it slightly inconvenient to get a script to run using the System V init system. Maybe this is why it is becoming deprecated on newer systems.
 
 However, many systems still keep this init system around for backwards compatibility so understanding it is beneficial.
 
-Furthermore, despite my qualms, I still like how this method does not abstract the process too much. It makes me feel like I understand what is happening better and as a result, I am probably better informed for other init systems.
+Furthermore, despite my qualms, I still like how this method does not abstract the process too much. It makes me feel like I understand what is happening better and as a result, I am probably better informed to use other init systems.
 
 Would you still consider using the System V init system if other init systems were available? Do you believe that the more recent methods for initializing a script is too abstracted?
