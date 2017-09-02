@@ -67,7 +67,7 @@ Anyways, we are extremely excited to see how well the business does over the hol
 
 We are both in agreement that reinvesting all the revenue (and then some) at this point will help the site grow faster and increase revenue later on.
 
-While it may seem that this belief will result in a never-ending loop, you can only reinvest so much before the returns are diminished exponentially.
+While it may seem that this belief will result in a never-ending loop, you can only reinvest so much before the returns are exponentially diminished.
 
 **Delayed gratification is the name of the game**.
 
@@ -123,7 +123,7 @@ My partner had some techniques he wanted to test so we decided to try them out o
 
 In my opinion, these strategies made complete sense for increasing our rankings. However, search engines do not always like to agree with me 🙁. We are still experiementing with these techniques and studying their outcomes.
 
-One of his suggestion was to do a general topic Google search with our site included to see what Google thinks is our most relevant content for that topic.
+One of his suggestions was to do a general topic Google search with our site included to see what Google thinks is our most relevant content for that topic.
 
 For instance, "ourwebsite.com skin care".
 
@@ -131,7 +131,7 @@ From the results, we would choose the page that we want to rank higher and link 
 
 #### Add Searched Keywords
 
-This is another one of my partner's idea. This one involves using <a href="https://www.semrush.com/" target="_blank" rel="nofollow">SEMrush</a>, a tool for doing SEO research.
+This is another one of my partner's ideas. This one involves using <a href="https://www.semrush.com/" target="_blank" rel="nofollow">SEMrush</a>, a tool for doing <a href="https://en.wikipedia.org/wiki/Search_engine_optimization" target="_blank" rel="nofollow">SEO</a> research.
 
 In this tatic, we do a domain overview search on the page we wish to rank up. SEMrush will return the top organic keywords that our page is ranking for.
 
