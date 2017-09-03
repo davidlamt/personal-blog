@@ -87,5 +87,11 @@ canonifyURLs = true
     identifier = "offline-adventures"
     url = "/categories/offline-adventures"
 
+  [[menu.main]]
+    name = "Business Ventures"
+    weight = -115
+    identifier = "business-ventures"
+    url = "/categories/business-ventures"
+
   [permalinks]
     post = "/:slug"
