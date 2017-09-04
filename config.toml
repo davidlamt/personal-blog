@@ -93,5 +93,12 @@ canonifyURLs = true
     identifier = "business-ventures"
     url = "/categories/business-ventures"
 
+  [[menu.main]]
+    pre = "<h3>The Past</h3>"
+    name = "Archives"
+    weight = -117
+    identifier = "archives"
+    url = "/archives"
+
   [permalinks]
     post = "/:slug"
