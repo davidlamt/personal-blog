@@ -95,10 +95,10 @@ canonifyURLs = true
 
   [[menu.main]]
     pre = "<h3>The Past</h3>"
-    name = "Archive"
-    weight = -116
-    identifier = "archive"
-    url = "/archive"
+    name = "Archives"
+    weight = -117
+    identifier = "archives"
+    url = "/archives"
 
   [permalinks]
     post = "/:slug"
