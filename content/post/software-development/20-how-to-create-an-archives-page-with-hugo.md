@@ -51,7 +51,9 @@ First, I created a new content file at the root of the ```content``` folder:
 hugo new post/archives.md
 ```
 
-Next, I created a template file that the previous Markdown file will use. I added a ```archives.html``` file to the ```layouts/page``` folder for my theme.
+This file is created so that my archives would be located at the ```/archives``` subdirectory (URL).
+
+Next, I created a template file that the previous Markdown file will use. I added an ```archives.html``` file to the ```layouts/page``` folder for my theme.
 
 In order to link these two files, I added the following configuration to ```archives.md```:
 
@@ -111,13 +113,13 @@ Also note that we are using ```.Site.RegularPages``` instead of ```.Site.Pages``
 
 This snippet loops through each page of the yearly groups we created above.
 
-I am filtering the pages for posts. Without this, I ended up displaying my about page as well.
+I am filtering the pages for posts. Without this, I would end up displaying my about page as well.
 
-Afterwards, I display just the post's title and its publish date with a separator in between.
+Afterwards, I display the post's title and its publish date with a separator in between.
 
 And that is pretty much it!
 
-The framework for an archives page is quite simple but you can customzie it endlessly to fit your needs. 
+The framework for an archives page is quite simple but you can customize it endlessly to fit your needs. 
 
 ## Design Decisions
 
@@ -129,7 +131,7 @@ Like I mentioned previously, my goal was to just have a simple page for visitors
 
 I chose to forgo including each posts' corresponding category because I already have dedicated category pages.
 
-Summaries are not included because if I choose my titles well, they should encompass what the content will be about. I may be putting too much faith in my ability to create titles.
+Summaries are not included because if I choose my titles well, they should encompass what the content will be about. I may be putting too much faith in my ability to create great titles.
 
 In a way, my archives page serves as a basis for a **rudimentary search feature when combined with the user's own search method** (e.g. Ctrl + F).
 
@@ -145,7 +147,7 @@ font-family: Inconsolata, monospace, sans-serif;
 
 The first two fonts are used because they give each character the same spacing. This means that no matter what the charactes are, the one directly below it will be aligned perfectly.
 
-In my opinion, this suits an archives page well because it creates uniformity and makes it easier to read each entry.
+In my opinion, this suits an archives page well because it creates uniformity and that makes it easier to read each entry.
 
 ## Closing Thoughts
 
@@ -155,6 +157,6 @@ If you have not viewed my archives yet, what are you doing?
 
 Now you can ~~criticize~~ compliment it.
 
-I hope that the short snippet and explanation helps you customize your own archives page. Feel free to view the <a href="https://github.com/davidlamt/hugo-theme-casper/" target="_blank" rel="nofolow">source code</a> for my entire blog and use it to customize your own!
+I hope that the short code snippet and explanation helps you customize your own archives page. Feel free to view the <a href="https://github.com/davidlamt/hugo-theme-casper/" target="_blank" rel="nofolow">source code</a> for my entire blog and use it to customize your own!
 
 What do you think about not having a search function on a blog? Do you think that having an archives page could make up for it?
