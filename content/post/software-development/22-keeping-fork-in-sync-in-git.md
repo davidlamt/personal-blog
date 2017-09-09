@@ -15,6 +15,8 @@ The issue he wanted input on was how to keep his forked copy in sync with the or
 
 ## Purpose of a Fork
 
+To eat food, of course. 🙂
+
 To be honest, I rarely fork repositories because clones are sufficient in all the situations I have encountered.
 
 While I was able to successfully help my coworker in the moment, I only came to understand the benefits of forks afterwards.
@@ -78,7 +80,7 @@ I do not have an exceptional understanding of rebase but I understand that it sh
 
 A rebase will take the updates in the original repository and apply it to your fork but not merge with your own modifications. As a result, your modifications as effectively based on the most updated repository.
 
-I like this <a href="https://stackoverflow.com/a/804156" target="_blank" rel="nofollow">short explanation</a> from StackOverflow:
+I like this <a href="https://stackoverflow.com/a/804156" target="_blank" rel="nofollow">short explanation</a> from Stack Overflow:
 
 > A second scenario would be if you started doing some development and then another developer made an unrelated change. You probably want to pull and then **rebase** to base your changes from the current version from the repo.
 
@@ -102,7 +104,7 @@ git request-pull <NAME_OF_COMMIT_ALREADY_IN_UPSTREAM> upstream <YOUR_CURRENT_BRA
 
 To be honest, submitting a pull request from the command line is a bit confusing to me. You can check out the documentation for the `request-pull` command <a href="https://git-scm.com/docs/git-request-pull" target="_blank" rel="nofollow">here</a>.
 
-Most remote repository hosts (e.g. GitHub, Bitbucket, etc.) have an option to submit a pull request when viewing your remote fork. This may be a better option than the command line as the GUI interface is usually more intuitive.
+Most remote repository hosts (e.g. GitHub, Bitbucket, etc.) have an option to submit a pull request when viewing your remote fork. This may be a better option than the command line as the GUI is usually more intuitive.
 
 ## Closing Thoughts
 
