@@ -79,7 +79,7 @@ Apparently, `const` objects **can have existing properties modified or deleted a
 
 Well, at least, the variable cannot be redefined.
 
-What if you want an object to be immutable? For instance, a pseudo-enumeration variable.
+What if you want an object to be immutable? For instance, a pseudo-enumeration variable:
 
 ```js
 const DRINKING_AGE = {
@@ -108,14 +108,13 @@ console.log(DRINKING_AGE);
 /*
  * {
  *     CALIFNORIA: 21,
- *     PUERTO_RICO: 18
+ *     PUERTO_RICO: 18,
+ *     ...
  * }
  *
  * Perfect, we cannot modifiy an existing property.
  * Nice try, minor!
  */
-
-DRINKING_AGE.UTAH = 15;
 
 delete DRINKING_AGE.CALIFORNIA;
 
@@ -123,18 +122,22 @@ console.log(DRINKING_AGE);
 /*
  * {
  *     CALIFNORIA: 21,
- *     PUERTO_RICO: 18
+ *     PUERTO_RICO: 18,
+ *     ...
  * }
  *
  * Thought you got me there, didn't you?!
  * You cannot delete a property when the object is frozen!
  */
 
+DRINKING_AGE.CALIFORNIA_NEW = 15;
+
 console.log(DRINKING_AGE);
 /*
  * {
  *     CALIFNORIA: 21,
- *     PUERTO_RICO: 18
+ *     PUERTO_RICO: 18,
+ *     ...
  * }
  *
  * Valiant effort but this is getting quite annoying.
@@ -146,7 +149,7 @@ Hopefully the above examples made it clear what the `Object.freeze()` method is 
 
 There is a caveat to this, however. This method is **shallow**, meaning that only the first level of properties are frozen.
 
-If a property contains another object, that inner object is not frozen. If you wish for all properties to be immutable, you will need to perform a **deep** freeze.
+If a property contains another object, that inner object is not frozen. If you wish for all nested objects to be immutable, you will need to perform a **deep** freeze.
 
 There is an example of a deep freeze implementation on the <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/freeze" target="_blank" rel="nofollow">MDN Web Docs</a>.
 
