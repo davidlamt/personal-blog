@@ -47,23 +47,35 @@ console.log(person);
  * Plus, why the heck can I change a variable declared as const?
  */
 
+delete person.age;
+
+console.log(person);
+/*
+ * {
+ *     name: 'David',
+ *     awesomeness: 0
+ * }
+ *
+ * Great, I have no age.
+ * Apparently, we can delete properties of a constant definition...
+ */
+
 person.sucks = true;
 
 console.log(person);
 /*
  * {
  *     name: 'David',
- *     age: 23,
  *     awesomeness: 0,
  *     sucks: true
  * }
  *
  * No no NO! I do not suck!
- * And I should not be able to add another property to a const definition!
+ * And I should not be able to add another property to a constant definition!
  */
 ```
 
-Apparently, `const` objects **can have existing properties redefined and be assigned new properties**.
+Apparently, `const` objects **can have existing properties modified or deleted and new properties added**.
 
 Well, at least, the variable cannot be redefined.
 
@@ -79,7 +91,7 @@ const DRINKING_AGE = {
 
 ## Immutable Objects
 
-The `Object.freeze()` method **prevents existing properties from being modified and new properties from being added**.
+The `Object.freeze()` method *freezes* an object to **prevent existing properties from being modified or deleted and new properties from being added**.
 
 Let's see an example!
 
@@ -105,6 +117,8 @@ console.log(DRINKING_AGE);
 
 DRINKING_AGE.UTAH = 15;
 
+delete DRINKING_AGE.CALIFORNIA;
+
 console.log(DRINKING_AGE);
 /*
  * {
@@ -112,7 +126,58 @@ console.log(DRINKING_AGE);
  *     PUERTO_RICO: 18
  * }
  *
- * There we go, no new properties can be added.
- * Valiant effort but you are getting quite annoying.
+ * Thought you got me there, didn't you?!
+ * You cannot delete a property when the object is frozen!
+ */
+
+console.log(DRINKING_AGE);
+/*
+ * {
+ *     CALIFNORIA: 21,
+ *     PUERTO_RICO: 18
+ * }
+ *
+ * Valiant effort but this is getting quite annoying.
+ * No new properties can be added.
  */
 ```
+
+Hopefully the above examples made it clear what the `Object.freeze()` method is doing. When an objected if frozen, modification, deletion, and addition of properties are rejected.
+
+There is a caveat to this, however. This method is **shallow**, meaning that only the first level of properties are frozen.
+
+If a property contains another object, that inner object is not frozen. If you wish for all properties to be immutable, you will need to perform a **deep** freeze.
+
+There is an example of a deep freeze implementation on the <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/freeze" target="_blank" rel="nofollow">MDN Web Docs</a>.
+
+## Other Mutability Methods
+
+There are a few other methods for modifying the mutability of objects to a lesser extent than `Object.freeze()`.
+
+These methods may be advantageous for certain scenarios where only certain restrictions are required.
+
+I will not be giving an example for each method because ~~I am lazy~~ I would like you to experiment with it on your own! You can use the <a href="https://developers.google.com/web/tools/chrome-devtools/" target="_blank" rel="nofollow">Chrome DevTools</a> as your playground.
+
+### Object.seal()
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/seal" target="_blank" rel="nofollow">This method</a> *seals* an object so that **new properties cannot be added and existing properties cannot be deleted but can be modified**.
+
+### Object.preventExtensions()
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/preventExtensions" target="_blank" rel="nofollow">This method</a> *prevents extensions* to a property - **no new properties can be added but existing properties can still be modified and deleted**.
+
+#### Complimentary Methods
+
+The `Object.freeze()`, `Object.seal()`, and `Object.preventExtensions()` methods come with validation methods:
+
+1. `Object.isFrozen()`
+2. `Object.isSealed()`
+3. `Object.isExtensible()`
+
+## Closing Thoughts
+
+I have only recently discovered these methods but their applications are numerous in my opinion. I would like to use these methods more consistently to improve the maintainability of my software.
+
+Keeping software states immutable will help prevent mishaps and confusion. I believe that **software logic is more easily understood when there is certainty**. I can see a correlation between increasing certainty and decreasing technical debt.
+
+What are your thoughts on these methods for changing an object's mutability factor? Are there any other approaches to help prevent unexpected state changes that you know about?
