@@ -23,9 +23,9 @@ Now, let's make sure you hold up the other end of the bargain and show up on tim
 
 Quite cliche but **treat others the way you want to be treated**.
 
-The least you can do is to arrive earlier than the agreed time to make sure that you are available at that specified time. While you cannot control whether the other party will do the same, you can take solace in the fact that you tried your best.
+The least you can do is to arrive earlier than the agreed upon time to make sure that you are available at that specified time. While you cannot control whether the other party will do the same, you can take solace in the fact that you tried your best.
 
-Remember, you are also respecting yourself by reducing your stress levels by removing the emotions of rushing to be on time.
+Remember, you are also respecting yourself by reducing your stress levels by removing the negative emotions of rushing to be on time!
 
 ## A Loose Interpretation
 
@@ -59,8 +59,8 @@ How about having some extra time when going out for lunch every day? Make sure t
 
 ## Closing Thoughts
 
-I hope that I was able to convey the benefits of having a buffer system to you. You would be doing yourself and others a tremendous favor by being *seemingly* punctual. Show respect to others and yourself!
+I hope that I was able to convey the benefits of having a buffer system to you. You would be doing yourself and others a tremendous favor by being punctual. Show respect to others and yourself!
 
-Remember that the additional time you "create" never has to go to waste. You can always be productive if you chose. The key to being proiductive is to not be like David. 🙂
+Remember that the additional time you "create" never has to go to waste. You can always be productive if you chose. The key to being productive is to not be like David. 🙂
 
-What comes to mind when others are late to a meeting? Do you view meeting times / deadlines as set in stone or suggestions?
+What comes to mind when others are late to a meeting? Do you view meeting times or deadlines as set in stone or suggestions?
