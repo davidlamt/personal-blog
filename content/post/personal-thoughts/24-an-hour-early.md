@@ -7,13 +7,13 @@ slug: "an-hour-early"
 categories: ["Personal Thoughts"]
 ---
 
->> I would rather be an hour early than a minute late.
+> I would rather be an hour early than a minute late.
 
 This statement has stuck with me ever since a middle school teacher mentioned it many years ago.
 
 <!--more-->
 
-I have always interpreted this as respecting the other person's time.
+I have always interpreted this as respecting your own and the other person's time.
 
 ## Show Some Respect
 
@@ -61,6 +61,6 @@ How about having some extra time when going out for lunch every day? Make sure t
 
 I hope that I was able to convey the benefits of having a buffer system to you. You would be doing yourself and others a tremendous favor by being punctual. Show respect to others and yourself!
 
-Remember that the additional time you "create" never has to go to waste. You can always be productive if you chose. The key to being productive is to not be like David. 🙂
+Remember that the additional time you "create" never has to go to waste. You can always be productive if you choose to be. The key to being productive is to not be like David. 🙂
 
 What comes to mind when others are late to a meeting? Do you view meeting times or deadlines as set in stone or suggestions?
