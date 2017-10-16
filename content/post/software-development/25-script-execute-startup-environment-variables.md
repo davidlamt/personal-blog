@@ -49,7 +49,6 @@ As a result, I added the following code snippet to my script. Modify it as neces
 [ -f /etc/profile ] && ./etc/profile
 
 # Checks if the specified variable is a zero-length string and stops the script if it is because the variable was not loaded
-# Swap MY_ENVIRONMENT_VARIABLE with the environment variable you require
 if [ -z "$MY_ENVIRONMENT_VARIABLE" ] ; then
     exit 1;
 fi;
@@ -61,8 +60,8 @@ fi;
 
 Even if the environment variable was not the root of your problem, I hope that you were able to find a solution through the logs!
 
-Plus, you now understand a bit more about the execution environment of scripts when they are not executed manually. There are many caveats that still gets me when I give control of a script's execution to the system.
+Plus, you now understand a bit more about the execution environment of scripts when they are not executed manually. There are many caveats that still baffles me when I give control of a script's execution to the system.
 
-This was especially true when I was attempting to automate certain tasks using <a href="https://en.wikipedia.org/wiki/Cron" target="_blank" rel="nofollow">Cron</a>. Maybe I will dedicate a future blog post on that topic!
+This was especially true when I was attempting to automate certain tasks using <a href="https://en.wikipedia.org/wiki/Cron" target="_blank" rel="nofollow">Cron</a>. Maybe I will dedicate a future blog post around that topic!
 
 Are there any other "gotchas" when we relinquish control of our scripts to the system? What is your preferred method of debugging a script that will not be executed by a user?
