@@ -30,7 +30,7 @@ I cannot compare this type of game to other escape rooms as this was my first on
 
 I do not want to reveal anything about the puzzles but they were definitely engaging. The entire experience was well thought out and the puzzles were all intriguing and thought provoking. 
 
-I love solving problems. Even more, I love the journey to solving the problems. This is not to say that I do not get frustrated sometimes. 🙂
+I love solving problems. Even more, I love the journey to solving problems. This is not to say that I do not get frustrated sometimes. 🙂
 
 Maybe this is why I am in the software development industry. Anyhow, these puzzles felt extremely satisfying both during the solving and completion phases.
 
@@ -44,7 +44,7 @@ Side note - the title "game master" is pretty dang cool. I want to be known as g
 
 I believe that we communicated pretty well and I think games such as this would help strengthen bonds between people and teams. This would be a fantastic team building exercise!
 
-I hope my employer reads this because I really want to ~~have fun~~ build better relationships with my colleagues. Actually, both of those can be accomplished!
+I hope my employer reads this because I really want to ~~have fun~~ build better relationships with my colleagues. Actually, how about both at the same time?!
 
 ## Did We Escape?
 
@@ -52,7 +52,7 @@ No, we died. We had to sign a waiver in case we "did not make it out alive".
 
 Really, we died. We were not able to escape The Asylum. Apparently, we made it through about 70% of the puzzles.
 
-I am not disappointed at all! Even if this was not our first escape room, I would not feel disappointed. Of course, being able to solve all the puzzles would have been satisfying. However, solving all the ones that we did felt awesome!
+That is fine! Even if this was not our first escape room, I would not feel disappointed. Of course, being able to solve all the puzzles would have been satisfying. However, solving all the ones that we did felt awesome!
 
 This particular room is considered an intermediate level difficulty but we had a great experience as beginners and would definitely recommend it to other first timers as well!
 
