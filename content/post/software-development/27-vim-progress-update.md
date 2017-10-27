@@ -39,9 +39,9 @@ Actually, I still use Vim (and vi) once in a while on CLI systems or even on Uni
 
 I am currently using <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code (VSCode)</a> as my main editor. Eclipse and Visual Studio are also part of my daily toolbelt that I unclip when necessary.
 
-I am attempting to migrate projects to VSCode because of how much I love it. I am enthralled by it's quickness as a text editor as it is not bloated by unnecessary tools that many IDEs contain.
+I am attempting to migrate projects to VSCode because of how much I love it. I am enthralled by its quickness as a text editor as it is not bloated by unnecessary tools that many IDEs contain.
 
-Despite being a text editor at heart, you can customize and extend it to your heart's content with extensions and modifications. Maybe I will compose an entire love letter (post) for VSCode in the future.
+Despite being a text editor at heart, you can customize it to your heart's content with extensions. Maybe I will compose an entire love letter (post) for VSCode in the future.
 
 I am using the following plugins to super-charge my code creation:
 
@@ -60,10 +60,10 @@ The following are some of the key bindings that I use the most often and would c
 * **dd** for deleting my mistakes quickly - before anyone notices.
 * **gg, G** to get to the top of the file or end of the file, respectively.
 * **c + OPERATOR** to change almost any combination of words, lines, etc. This is the action I probably utilize the most.
-* **LINE_NUMBER + G** to jump to the specified line number. Especially useful when line numbers are displayed, which should be always!
+* **LINE_NUMBER + G** to jump to the specified line number. Especially useful when line numbers are displayed, which should always be the case!
 * **y, p** to "yank" (copy) and paste selections.
 
-Wow, I actually use quite a number of key combinations now that I think about it. Unfortunately, I am also certain that I am not remembering some of my more common bindings as well.
+Wow, I actually use quite a number of key combinations now that I think about it. Unfortunately, I am also certain that I am forgetting some of my more frequently used bindings as well.
 
 However, I hope that you can begin to see how useful these key bindings are for writing (not just code)!
 
@@ -73,7 +73,7 @@ While I may not be enjoying the "pure Vim experience", I have gained a lot by le
 
 More importantly, I have drastically improved my day-to-day code creation workflow with my arsenal of Vim key bindings and awesome plugins and extensions.
 
-I cannot wait to have more "ah-ha" moments when I figure out ways to quicken actions that I have repeating!
+I cannot wait to have more "ah-ha" moments when I figure out ways to speed up actions that I have been repeating!
 
 I hope that you will take a look (or second look) at Vim. You will definitely gain something even if you do not end up going the purist route.
 
