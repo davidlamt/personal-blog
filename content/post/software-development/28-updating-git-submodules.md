@@ -65,10 +65,10 @@ My Hugo blog repository only needs to know about the content I have and should n
 
 As a result, if you check out my blog repository's <a href="https://github.com/davidlamt/personal-blog/tree/master/themes" target="_blank">theme folder</a>, you can see that it is referencing a fork of a theme as a Git submodule.
 
-Having the forked theme as a Git submodule allows me to update either the blog's content or its theme separately. Furthermore, this would allow me to swap out the theme for a new one with relative ease.
+Having the forked theme as a Git submodule allows me to update either the blog's content or its theme separately. Furthermore, this will allow me to swap out the theme for a new one with relative ease.
 
 ## Closing Thoughts
 
-I truly appreciate the modularity and extensibility that Git submodules provide. It reminds me of other package managers like <a href="https://www.npmjs.com/">NPM</a>. I believe that this movement towards abstraction and transposable components will prove advantageous.
+I truly appreciate the modularity and extensibility that Git submodules provide. It reminds me of other package managers like <a href="https://www.npmjs.com/" target="_blank">NPM</a>. I believe that this movement towards abstraction and transposable components will prove advantageous.
 
 What are your thoughts on Git submodules? When and where do you find yourself using them? Do you believe that this shift towards components is a fad or is it here to stay?
