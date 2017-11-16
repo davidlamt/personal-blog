@@ -37,9 +37,64 @@ In retrospect, I could have continued the interaction if I chose but I used soci
 
 How often do we wish that we had more time in a day to tackle more tasks?
 
-Well, I would have accomplished more of my goals if I had not been sitting in my chair, scrolling through Facebook. I would have gained more out of my college education if I had not been looking at what others said on Twitter and actually paid attention to lectures.
+Well, I would have accomplished more of my goals if I had not been scrolling through Facebook all the time. I would have gained more out of my college education if I had not been looking at what others said on Twitter and actually paid attention to lectures.
 
-How about getting more sleep instead of going through my Snapchat feed? Maybe I would have stayed awake during class and avoided using social media to keep my eyes open. What a vicious cycle. 🙁
+How about getting more sleep instead of going through Snapchat stories? Maybe I would have been able to stay awake during class and avoid using social media to keep my eyes open. What a vicious cycle. 🙁
+
+### Fear of Missing Out
+
+FOMO. It is real. I have witnessed this first hand when someone close to me expressed that they were not doing enough compared to their friends.
+
+I can see how people can experience the fear of missing out when they are constantly bombarded by all the cool things their friends are doing and posting to social media.
+
+Sure, the cool things they are doing are probably pretty awesome. However, why should you feel that you are missing out by not doing the same things? To be honest, I attribute this feeling to a **lack of self-confidence**.
+
+Not to bash on others - I have had the same feeling when comparing my life to others according to social media. Even so, we need to realize that most people post only the good moments for others to see.
+
+Furthermore, is your own life not awesome itself? Yes, you are doing fantastic things every day as well! Maybe they have became normal to you but they are still amazing nonethless!
 
 ## A Changed Person
 
+One of the simple revelations I have made in the past year is that social media is **absolutely not necessary for me**.
+
+Although, I have to admit that deactivating and closing all my social media accounts may have been a bit extreme. However, what matters is that it worked for me.
+
+At this point, I *rarely* think about social media and I do not find myself habitually opening up such applications anymore. Those life-sucking, time-wasting monsters no longer have their grips on me.
+
+A bit late for a disclaimer but I do not have anything against those who do use social media. This was the right path for me but I understand that everyone has their own opinions.
+
+I agree with the following philosophy: **have expectations of no one except yourself**.
+
+### Awkwardness Acceptance
+
+**It is only awkward if you make it awkward**.
+
+Truer words have never been spoken.
+
+Nowadays, I am more conscious of my phone usage when I am out with others. I give my best effort into avoiding touching my mobile device when there are opportunities for conversation.
+
+To be honest, it is still difficult not to pull out my phone when conversation slows down or when other people do so. However, I am going to continue to stick to my plan. I will stare at you while you look at your phone. 🙂
+
+### Where Has My Time Gone?!
+
+Okay, this is one area where I am still questioning where my time has gone.
+
+Now that I am not spending as much time on social media, all that time should go into productive tasks, right?
+
+Not quite.
+
+While it is true that I am reaching my goals a bit quicker, it is not at the rate at which it should seem. All the "free" time that came from removing social media is not evenly distributed into productive goals.
+
+Regretfully, I do find myself slacking off with some of that extra time every now and then. However, I do subscribe to the belief that we need time to relax and have fun. As a result, I now subscribe to the following statement.
+
+**It is not a waste of time if you plan on doing it**.
+
+### Fear Not
+
+I no longer seek social acceptance or to compare myself to others on social media.
+
+I am confident in who I am and what I do. I make great strides towards my goals and have awesome adventures, regardless of what my friends are doing.
+
+Of course, I am still in the process of building up my confidence in other areas of my life as well. It will probably be a lifelong journey but that is fine with me. I am striving to become someone who is **not defined by the expectations of others**.
+
+## Closing Thoughts
