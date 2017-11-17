@@ -43,7 +43,7 @@ How about getting more sleep instead of going through Snapchat stories? Maybe I 
 
 ### Fear of Missing Out
 
-FOMO. It is real. I have witnessed this first hand when someone close to me expressed that they were not doing enough compared to their friends.
+<a href="https://en.wikipedia.org/wiki/Fear_of_missing_out" target="_blank">FOMO</a>. It is real. I have witnessed this first hand when someone close to me expressed that they were not doing enough compared to their friends.
 
 I can see how people can experience the fear of missing out when they are constantly bombarded by all the cool things their friends are doing and posting to social media.
 
@@ -51,7 +51,7 @@ Sure, the cool things they are doing are probably pretty awesome. However, why s
 
 Not to bash on others - I have had the same feeling when comparing my life to others according to social media. Even so, we need to realize that most people post only the good moments for others to see.
 
-Furthermore, is your own life not awesome itself? Yes, you are doing fantastic things every day as well! Maybe they have became normal to you but they are still amazing nonethless!
+Furthermore, is your own life not awesome in itself? Yes, you are doing fantastic things every day as well! Maybe they have become normal to you but they are still amazing nonethless!
 
 ## A Changed Person
 
@@ -98,3 +98,11 @@ I am confident in who I am and what I do. I make great strides towards my goals 
 Of course, I am still in the process of building up my confidence in other areas of my life as well. It will probably be a lifelong journey but that is fine with me. I am striving to become someone who is **not defined by the expectations of others**.
 
 ## Closing Thoughts
+
+In recent months, I have been utilizing social media platforms to help strengthen our [Amazon business](/first-amazon-affiliate-business-overview). We are trying to build a strong social following to help elevate our rankings and traffic.
+
+Even more recently, I have reactivated some of my personal social media accounts as my girlfriend wanted to tag me in photos and such. However, my experience the past year has helped me stay clear from relapsing.
+
+This entire experience was enlightening for me - I would like to believe I am a better person now than I was a year ago. No matter how little I have changed, it is still an improvement!
+
+What do you believe are the positive and negative effects of social media? How do you think social media has influenced your life and those around you?
