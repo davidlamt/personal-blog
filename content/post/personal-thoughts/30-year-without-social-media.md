@@ -73,7 +73,9 @@ Truer words have never been spoken.
 
 Nowadays, I am more conscious of my phone usage when I am out with others. I give my best effort into avoiding touching my mobile device when there are opportunities for conversation.
 
-To be honest, it is still difficult not to pull out my phone when conversation slows down or when other people do so. However, I am going to continue to stick to my plan. I will stare at you while you look at your phone. 🙂
+To be honest, it is still difficult not to pull out my phone when conversations dwindle or when other people do so themselves. However, I am going to continue to stick to my plan. 
+
+I will stare at you while you stare at your phone. 🙂
 
 ### Where Has My Time Gone?!
 
@@ -85,7 +87,7 @@ Not quite.
 
 While it is true that I am reaching my goals a bit quicker, it is not at the rate at which it should seem. All the "free" time that came from removing social media is not evenly distributed into productive goals.
 
-Regretfully, I do find myself slacking off with some of that extra time every now and then. However, I do subscribe to the belief that we need time to relax and have fun. As a result, I now subscribe to the following statement.
+Regretfully, I do find myself slacking off with some of that extra time every now and then. However, I do subscribe to the belief that we need time to relax and have fun.
 
 **It is not a waste of time if you plan on doing it**.
 
@@ -93,9 +95,11 @@ Regretfully, I do find myself slacking off with some of that extra time every no
 
 I no longer seek social acceptance or to compare myself to others on social media.
 
-I am confident in who I am and what I do. I make great strides towards my goals and have awesome adventures, regardless of what my friends are doing.
+I am confident in who I am and what I do. I make great strides toward my goals and have awesome adventures, regardless of what my friends are doing.
 
-Of course, I am still in the process of building up my confidence in other areas of my life as well. It will probably be a lifelong journey but that is fine with me. I am striving to become someone who is **not defined by the expectations of others**.
+Of course, I am still in the process of building up my confidence in other areas of my life as well. It will probably be a lifelong journey but that is fine with me. 
+
+I am striving to become someone who is **not defined by the expectations of others**.
 
 ## Closing Thoughts
 
@@ -103,6 +107,6 @@ In recent months, I have been utilizing social media platforms to help strengthe
 
 Even more recently, I have reactivated some of my personal social media accounts as my girlfriend wanted to tag me in photos and such. However, my experience the past year has helped me stay clear from relapsing.
 
-This entire experience was enlightening for me - I would like to believe I am a better person now than I was a year ago. No matter how little I have changed, it is still an improvement!
+This entire experience was enlightening for me - I would like to believe I am a better person now than I was a year ago. I am confident that some of these improvements came about from reducing my social media usage.
 
 What do you believe are the positive and negative effects of social media? How do you think social media has influenced your life and those around you?
