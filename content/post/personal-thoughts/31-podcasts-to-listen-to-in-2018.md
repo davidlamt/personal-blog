@@ -45,7 +45,7 @@ As a result, I personally feel like this combination of podcasts provide somethi
 
 [Wait, but why](https://waitbutwhy.com/) these podcasts?
 
-One revolving themes in the podcasts I have chosen so far for this year is the goal of improving myself as a person.
+One revolving theme in the podcasts I have chosen so far for this year is the goal of improving myself as a person.
 
 I want to become a better developer. I want to have a better grasp on what is happening around me. I want to become more financially educated. I want to expand my mind.
 
@@ -55,7 +55,7 @@ I want to become a better developer. I want to have a better grasp on what is ha
 
 In my [previous post](/podcasts-to-listen-to-in-2017), I briefly mentioned how I did not have a good experience with audiobooks despite my love for podcasts.
 
-My opinion on audiobooks has now changed. My feelings for audiobooks may be as strong as my emoitions for podcasts now. They are both quite essential to my daily life.
+My opinion on audiobooks has changed since then. My feelings for audiobooks may be as strong as my emoitions for podcasts now. They are both quite essential to my daily life.
 
 I believe I just needed some more time listening to audiobooks to truly appreciate the experience. Currently, I try to have at least one fiction and one nonfiction book available to fit my ever-changing mood.
 
