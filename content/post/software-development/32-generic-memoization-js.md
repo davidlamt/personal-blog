@@ -15,7 +15,7 @@ No, I am not being compensated for this recommendation. 🙂
 
 ## Memo - what?
 
-Do not worry, I have extreme difficulty saying the word as well.
+Do not worry, I have extreme difficulty in saying the word as well.
 
 [Memoization](https://en.wikipedia.org/wiki/Memoization) is a method of optimizing a process by caching the results of function calls. When the function is called again with the same argument(s), the previously calculated result is returned instead of performing the operations again.
 
@@ -53,7 +53,7 @@ Pay attention to how we are using the [rest](https://developer.mozilla.org/en-US
 
 ### Using memoize()
 
-Let's say we constructed the following recursive solution to the problem of finding the n-th entry in the fibonacci series:
+Lets say we constructed the following recursive solution to the problem of finding the n-th entry in the fibonacci series:
 
 ```js
 function fib(n) {
@@ -71,7 +71,7 @@ We can optimize this function by replacing the original `fib()` function with it
 fib = memoize(fib);
 ```
 
-Running a quick test with [Jest](https://facebook.github.io/jest/), the original function takes around 10 seconds to calculate the 45th entry in the series. On the other hand, the memozied version takes **less than a millisecond**.
+Running a quick test with [Jest](https://facebook.github.io/jest/), the original function takes around 10 seconds to calculate the 45th entry in the series. On the other hand, the memoized version takes **less than a millisecond**.
 
 Keep in mind that the original recursive solution has an exponential time complexity so the execution time will drastically increase for larger numbers.
 
@@ -79,8 +79,8 @@ Keep in mind that the original recursive solution has an exponential time comple
 
 So, are you as amazed as I am by the concept of memoization?
 
-Nonetheless, I hope you found the generic memoization function useful. You can go ahead and apply this method to any of your existing function to help decrease execution time.
+Nonetheless, I hope you found the generic memoization function useful. You can go ahead and apply this method to any of your existing functions to help decrease execution time.
 
-Just remember that using this function does create an overhead (increased space complexity) due to the caching system. You will probably only want to utilize memoization if you know that there will be repeated function calls with the same inputs.
+Just remember that using this function does create an overhead (increased space complexity) due to the caching system. You will probably only want to utilize memoization if you know that there will be repeated function calls with the same inputs often.
 
 Also, you can reduce the amount of memory used by limiting the cache to only store a certain number of results before overridding!
