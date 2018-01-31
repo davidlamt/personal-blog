@@ -31,7 +31,7 @@ As I read more and more about sleep, it seems that the most optimal amount of sl
 
 It is quite a simple test but it made complete sense to me.
 
-I attempted this experiment for about a week (10 days to be exact) to see how my body reacts. For weekdays, I usually already wake up early so I set my alarm for an extra 1.5 hours of sleep (that I hopefully won't need).
+I attempted this experiment for 10 days to see how my body would react. For weekdays, I usually already wake up early so I set my alarm for an extra 1.5 hours of sleep (that I hopefully won't need).
 
 ### Results
 
@@ -50,7 +50,7 @@ Here is the amount of sleep I tracked for 10 days:
 
 Yes, I sleep pretty early but I also wake up pretty early so it evens out. Also, keep in mind that this does not account for my issue of constantly waking up during the night.
 
-I wish I could have seen more consistent results but it looks like it varies a lot based on factors that I may or may not know of.
+I wish I could have seen more consistent results but it looks like it varies a lot based on factors that I may or may not know about.
 
 The average amount of sleep I got each night during the entire experiment was **8.15 hours**.
 
