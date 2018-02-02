@@ -11,7 +11,7 @@ What muscles?
 
 🙁
 
-[As you may know](/about), I am quite fond of JavaScript. However, I do not have the opportunity to use it very often in my professional career. During my free time, I love to work on side projects with JavaScript.
+As you may know, [I am quite fond of JavaScript](/about). However, I do not have the opportunity to use it very often in my professional career. During my free time, I love to work on side projects with JavaScript.
 
 This year, one of my secondary goals is to become a better JavaScript developer. Maybe then I can show off those popping JavaScript muscles.
 
@@ -27,7 +27,7 @@ While I did take numerous computer science courses in college, we mostly worked 
 
 The languages I encountered during college are definitely suitable for creating amazing technologies, but the projects we worked on were not very interesting to me.
 
-Most of the assignments consisted of console applications and simple scripts for learning the basics construct of the language. While I recognize the importance of having a good foundation, I believe that you can **learn the basic concepts while also having fun**.
+Most of the assignments consisted of console applications and simple scripts for learning the basic constructs of the language. While I recognize the importance of having a good foundation, I believe that you can **learn the basic concepts while also having fun**.
 
 During the second half of my college career, I began taking online courses that seemed more interesting to me. In one of these courses, I was introducted to web development and how JavaScript can interact with HTML to create awesome applications.
 
@@ -43,7 +43,7 @@ Want to use JavaScript on the server? [Easy](https://nodejs.org/en/).
 
 Want to use JavaScript for mobile applications? [No problem](https://facebook.github.io/react-native/).
 
-Not that to say JavaScript is always the best technology to use; in fact, it often is not, but it can be used in almost every scenario. As a result, having a good understanding of the language will prove beneficial.
+Not to say JavaScript is always the best technology to use; in fact, it often is not, but it can be used in almost every scenario. As a result, having a good understanding of the language will prove beneficial.
 
 ## How to Improve
 
@@ -64,7 +64,7 @@ The course on Udemy is paid but you can often find a coupon to reduce the price 
 
 Yes, this is the same course I recommended in a [previous post](/generic-memoization-js). Even though I prefer learning through projects, I have to hand it to Stephen for making this course engaging and enjoyable.
 
-On the other hand, the JavaScript30 course is completely free. This course helps you build 30 small JavaScript-based projects. I like how this course uses vanilla JavaScript and also helps expand your view of what is possible with JavaScript.
+On the other hand, the JavaScript30 course is completely free. This course helps you build 30 small JavaScript-based projects. I like how this course uses vanilla JavaScript and also helps expand your view of what is possible with the language.
 
 ### Practice
 
@@ -80,6 +80,6 @@ This feature allows me to see more, and often better, solutions to the problem. 
 
 I hope that your JavaScript muscles become more flex-able with these methods. 🙂
 
-I have also heard that the [Eloquent JavaScript](https://eloquentjavascript.net/) book is quite helpful in learning JavaScript's constructs and best practices. I have not read it but it is definitely on my reading list. Let me know how it is if you have read it!
+I have also heard that the [Eloquent JavaScript](https://eloquentjavascript.net/) book is quite helpful in learning JavaScript's fundamentals and best practices. I have not read it but it is definitely on my reading list. Let me know how it is if you have read it!
 
-Do you know of any other other resources for improving one JavaScript's skills?
+Do you know of any other other resources for improving one's JavaScript skills?
